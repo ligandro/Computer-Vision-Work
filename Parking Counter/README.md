@@ -1,9 +1,5 @@
-# parking-space-counter
+# Parking Space Counter
+## Detects parking lots using a mask and then using a machine learning model it predicts whether it is occupied or not. Counter is upadted based on that
 
-In this video I show you how to build a parking space detector and counter with computer vision !
+![Screenshot 2024-04-04 224702](https://github.com/ligandro/Computer-Vision-Work/assets/97714265/e8e62c04-b97a-476d-9010-66e953afe741)
 
-[![Watch the video](https://img.youtube.com/vi/F-884J2mnOY/0.jpg)](https://www.youtube.com/watch?v=F-884J2mnOY)
-
-## data
-
-You can download the data and model I used in this tutorial [here](https://drive.google.com/drive/folders/1CjEFWihRqTLNUnYRwHXxGAVwSXF2k8QC?usp=sharing).
